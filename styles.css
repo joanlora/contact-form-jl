@@ -1,0 +1,33 @@
+@font-face {
+   font-family: "Silkscreen";
+   src: url();
+}
+
+body{
+   font-family: "Silkscreen";
+   color: white;
+   background-color: black;
+}
+
+fieldset{
+    display: block;
+    border-color: white;
+    border-style: dashed;
+ }
+ 
+ .grid-container{
+    margin:0 auto;
+     
+    width: 100%;
+    text-align: center;
+    
+ }
+
+ .buttons{
+   font-family: "Silkscreen";
+   color: black;
+ }
+
+ header,footer{
+    text-align: center;
+ }
